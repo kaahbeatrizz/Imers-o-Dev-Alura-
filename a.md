@@ -1,6 +1,18 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0da3b1f5-c5f8-418c-b842-b911861064f3" 
-       alt="blublu" 
-       width="80"
-       style="border-radius: 10px;">
-</div>
+## Ponte de Cristal<br>
+<br>
+Projeto em Javascript / HTML / CSS     Ponte de Cristal (inspirado em Round 6) – Focado em loops, condicionais e funções.<br>
+<br>
+<br>
+## 🔗 Link do Projeto 
+
+https://codepen.io/kaahbeatrizz/pen/ZYEPaKb<br>
+
+
+![BE](https://github.com/user-attachments/assets/fa4914f1-ca21-4514-a8f8-7236032e1276)
+
+<br>
+<br>
+<br>
+
+##
+<div align="center">Feito por <a href="https://github.com/kaahbeatrizz">Kaahbeatrizz</a>.</div>
